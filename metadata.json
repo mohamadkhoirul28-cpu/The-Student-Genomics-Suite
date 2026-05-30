@@ -1,0 +1,6 @@
+{
+  "name": "The Student Genomics Suite",
+  "description": "Platform analisis data genetik untuk mahasiswa biologi Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
